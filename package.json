@@ -1,5 +1,8 @@
 {
-  "name": "@iposg/ui-components",
+  "name": "@chathuraed/iposg-ui-components",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/chathuraed"
+  },
   "version": "1.0.0",
   "description": "Basic UI Components for IPOSG-Web Projects",
   "scripts": {
